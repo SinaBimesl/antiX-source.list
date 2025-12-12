@@ -1,0 +1,4 @@
+#FILE PATH: /etc/apt/sources.list.d/debian-stable-updates.list
+
+# Debian Bookworm Updates
+deb http://ftp.us.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
